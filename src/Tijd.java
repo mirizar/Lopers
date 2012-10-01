@@ -1,6 +1,6 @@
 
 public class Tijd implements Comparable <Tijd>{
-
+/** nog een beetje comentaar */
 	/**
 	 * @param args
 	 */
